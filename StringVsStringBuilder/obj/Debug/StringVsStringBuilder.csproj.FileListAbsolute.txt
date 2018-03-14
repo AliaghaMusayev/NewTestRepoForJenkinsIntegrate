@@ -1,0 +1,12 @@
+c:\users\aliaga.musayev\documents\visual studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\StringVsStringBuilder.exe.config
+c:\users\aliaga.musayev\documents\visual studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\StringVsStringBuilder.csprojResolveAssemblyReference.cache
+c:\users\aliaga.musayev\documents\visual studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\StringVsStringBuilder.exe
+c:\users\aliaga.musayev\documents\visual studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\StringVsStringBuilder.pdb
+c:\users\aliaga.musayev\documents\visual studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\StringVsStringBuilder.exe
+c:\users\aliaga.musayev\documents\visual studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\StringVsStringBuilder.pdb
+D:\Visual Studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\StringVsStringBuilder.exe.config
+D:\Visual Studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\StringVsStringBuilder.exe
+D:\Visual Studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\StringVsStringBuilder.pdb
+D:\Visual Studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\StringVsStringBuilder.exe
+D:\Visual Studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\bin\Debug\StringVsStringBuilder.pdb
+D:\Visual Studio 2013\Projects\StringVsStringBuilder\StringVsStringBuilder\obj\Debug\StringVsStringBuilder.csprojResolveAssemblyReference.cache
