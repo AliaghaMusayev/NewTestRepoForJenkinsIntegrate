@@ -12,8 +12,8 @@ namespace StringVsStringBuilder
         {
             Program p1 = new Program();
             //Console.WriteLine(p1.bilder().ToString());
-            Console.WriteLine(p1.builder2())
-            Console.ReadKey()
+            Console.WriteLine(p1.builder2());
+            Console.ReadKey();
         }
 
         public StringBuilder bilder()
